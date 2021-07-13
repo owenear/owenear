@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owenear
-- 👀 I’m interested in Python and networks
+- 👀 I’m interested in Python, networks and drums
 - 📫 How to reach me owenear@gmail.com
 
 <!---
